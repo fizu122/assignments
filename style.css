@@ -129,3 +129,16 @@ width: 80%;
 .wow img{
     width: 80%;
 }
+#red{
+    color: red;
+}
+.footer{
+    font-style: italic;
+    font-weight: bold;
+    color: white;
+    background-color: black;
+    border-radius: 5px;
+    text-align: center;
+    margin-bottom: 3%;
+    margin-top: 3%;
+}
