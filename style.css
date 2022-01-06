@@ -105,3 +105,27 @@ width: 80%;
 .relax img{
     width: 80%;
 }
+#yellowgreen{
+    color: yellowgreen;
+}
+.facebook{
+    text-align: center;
+    padding-top: 40px;
+}
+.fifth{
+    display: flex;
+    background-image: url(shape-4.png);
+    background-position: left;
+    background-repeat: no-repeat;
+    padding-top: 80px;
+    background-size: 30%;
+    padding-left: 5%;
+    padding-right: 4%;
+}
+.wow{
+    width: 50%;
+    padding-left: 5%;
+}
+.wow img{
+    width: 80%;
+}
