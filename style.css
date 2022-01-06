@@ -43,6 +43,8 @@ h2{
 }
 .second{
     display: flex;
+    padding-left: 3%;
+    padding-right: 5%;
 }
 h3{
     font-size: 25px;
@@ -52,12 +54,13 @@ h3{
     width: 30%;
     padding-left: 3%;
     margin-left: 5%;
-    margin-right: 5%;
+    margin-right: 4%;
     border-radius: 12px;
     box-shadow: 2px 2px 2px white;
+    
 }
 .position img{
-width: 60%;
+width: 80%;
 }
 .mission{
     background-image: linear-gradient( orange,tomato);
@@ -67,4 +70,38 @@ width: 60%;
 }
 .goal{
     background-image: linear-gradient(green,yellowgreen);
+}
+.third{
+    display: flex;
+    background-image: url(shape-1.png);
+    background-position: left;
+    background-repeat: no-repeat;
+    padding-top: 80px;
+    background-size: 17%;
+    padding-left: 5%;
+    padding-right: 7%;
+}
+.look{
+    width: 50%;
+    padding-left: 5%;
+}
+.look img{
+    width: 60%;
+}
+.fourth{
+    display: flex;
+    background-image: url(shape-1.png);
+    background-position: right;
+    background-repeat: no-repeat;
+    padding-top: 80px;
+    background-size: 20%;
+    padding-left: 5%;
+    padding-right: 4%;
+}
+.relax{  
+    width: 50%;
+    padding-left: 5%;
+}
+.relax img{
+    width: 80%;
 }
